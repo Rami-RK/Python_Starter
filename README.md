@@ -10,7 +10,7 @@
 * (5) OOPS_PLUS (Will be added)
 * (6) Numpy_Ramen
 * (7) pandas- Starter_Series_DataFrame
-* (8) Python_Plotting and Visualization :Matplotlib_Startrt/Seaborn/Plottly
+* (8) Python_Plotting and Visualization :Matplotlib_Starter/Seaborn/Plottly
 * (9) pandas-Data Cleaning & Processing I
 * (10) Groupby and aggregation (Will be updated )
 * (11) pivot_table and  crosstab (Will be updated)
