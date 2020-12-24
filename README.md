@@ -12,7 +12,7 @@
 * (7) pandas- Starter_Series_DataFrame
 * (8) Python_Plotting and Visualization :Matplotlib_Starter/Seaborn/Plottly
 * (9) pandas-Data Cleaning & Processing I
-* (10) Groupby and aggregation (Will be updated )
+* (10) Groupby and aggregation
 * (11) pivot_table and  crosstab (Will be updated)
 * (12) pandas-Join_combine_Reshape (Will be updated)
 * (13) Few Selected Operations in padas (Will be added)
